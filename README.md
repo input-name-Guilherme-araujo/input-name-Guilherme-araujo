@@ -1,8 +1,6 @@
 
 <h1 align="center">👋 Oi, meu nome é <span style="color:#2563eb;">Guilherme Araújo</span></h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/input-name-Guilherme-araujo" width="140" alt="Avatar de Guilherme Araújo" />
-</p>
+
 <p align="center" >
   💻 <b>DESENVOLVEDOR FRONT-END</b> &nbsp;|&nbsp;<b> FUTURO DESENVOLVEDOR FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; Criativo & Curioso  &nbsp;|&nbsp; Me aprofundando em IA 🤖
 </p>
