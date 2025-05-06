@@ -38,7 +38,7 @@
   <li> 💡 Curioso por novas tecnologias e aficionado por resolver problemas</li>
   <li> 🎯 Busco oportunidades em ambientes inovadores e colaborativos</li>
   <li> ⌨️ Sempre buscando me aprofundar em novas tecnologias </li>
-  <li> 👨🏽‍🎓 Estudante de Desenvolvimento Multiplataforma | Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</li>
+  <li> 👨🏽‍🎓 Estudante de Desenvolvimento de Software Multiplataforma | Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</li>
   
 </ul>
 
