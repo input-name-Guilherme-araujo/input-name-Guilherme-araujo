@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Oi, meu nome é <span style="color:#2563eb;">Guilherme Araújo</span></h1>
+<h1 align="center">👋 Oi, meu nome é <span style="color:#2563eb;">Guilherme De Araújo</span></h1>
 
 <p align="center" >
   💻 <b>DESENVOLVEDOR FRONT-END</b> &nbsp;|&nbsp;<b> FUTURO DESENVOLVEDOR FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; Criativo & Curioso  &nbsp;|&nbsp; Me aprofundando em Machine Learning 🤖
