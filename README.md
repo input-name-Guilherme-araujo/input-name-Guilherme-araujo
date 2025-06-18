@@ -47,7 +47,7 @@
 <ul>
   <li>
     > Acesse o repositório para mais detalhes: [Pi-1-semestre---DSM](https://github.com/input-name-Guilherme-araujo/Pi-1-semestre---DSM)
-     
+    > (New) Acesse o repositório para mais detalhes: [Pi-2-semestre---DSM] (https://github.com/input-name-Guilherme-araujo/Pi-2-semestre---DSM)
   </li>
 </ul>
 
