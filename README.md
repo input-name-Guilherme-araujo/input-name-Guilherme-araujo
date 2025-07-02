@@ -61,10 +61,10 @@
   <a href="https://www.linkedin.com/in/guilherme-araujo-7a9126350">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5516993877322&text=Ol%C3%A1,%20Guilherme&app_absent=0">
+  <a href="https://api.whatsapp.com/send/?phone=number&text=Ol%C3%A1,%20Guilherme&app_absent=0">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style=";">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=guilhermedeearaujo@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=email" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </a>
