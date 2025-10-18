@@ -2,7 +2,7 @@
 <h1 align="center">👋 Oi, meu nome é <span style="color:#2563eb;">Guilherme De Araújo</span></h1>
 
 <p align="center" >
-  💻 <b>DESENVOLVEDOR FRONT-END</b> &nbsp;|&nbsp;<b> FUTURO DESENVOLVEDOR FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;|&nbsp;  Machine Learning 🤖
+  💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b> FUTURO DESENVOLVEDOR FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;|&nbsp;  Machine Learning 🤖
 </p>
 
 
@@ -47,8 +47,11 @@
 <ul>
   <li>
     > Acesse o repositório para mais detalhes: [Pi-1-semestre---DSM](https://github.com/input-name-Guilherme-araujo/Pi-1-semestre---DSM)
-    > (New) Acesse o repositório para mais detalhes: [Pi-2-semestre---DSM] (https://github.com/input-name-Guilherme-araujo/Pi-2-semestre---DSM)
+    
   </li>
+  <li> 
+    > (New) Acesse o repositório para mais detalhes: [Pi-2-semestre---DSM] (https://github.com/input-name-Guilherme-araujo/Pi-2-semestre---DSM)
+  </li> 
 </ul>
 
 
