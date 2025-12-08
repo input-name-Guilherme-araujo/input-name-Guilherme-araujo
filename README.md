@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Responsive%20Web%20Design-FF5722?logo=html5&logoColor=white" alt="Responsive Web Design"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
