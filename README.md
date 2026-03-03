@@ -4,43 +4,36 @@
 <br><br>
 
 <p align="center" >
-  💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b> FUTURO DESENVOLVEDOR FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;|&nbsp;  Machine Learning 🤖
+  💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b>FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;
 </p>
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="100">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" width="100">
 </div>
 <br><br>    
   
 
 
-<p align="center">
-  <a href="https://github.com/input-name-Guilherme-araujo">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=input-name-Guilherme-araujo&layout=compact&langs_count=8&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
-</p>
 
 
-<h2>Sobre mim</h2>
-<ul>
-  <li> 🚀 Desenvolvo interfaces modernas e experiências digitais marcantes</li>
-  <li> 💡 Curioso por novas tecnologias e aficionado por resolver problemas</li>
-  <li> 🎯 Busco oportunidades em ambientes inovadores e colaborativos</li>
-  <li> ⌨️ Sempre buscando me aprofundar em novas tecnologias </li>
-  <li> 👨🏽‍🎓 Estudante de Desenvolvimento de Software Multiplataforma | Fatec Franca - Faculdade de Tecnologia de Franca Dr Thomaz Novelino</li>
+
+
+
+  <p> Sou desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web escaláveis e bem estruturadas. Atuo no front-end com React, criando interfaces modernas, responsivas e focadas na experiência do usuário. No back-end, trabalho com Node.js e NestJS, aplicando o padrão MVC e boas práticas de arquitetura. Possuo sólidos conhecimentos em Estrutura de Dados, lógica de programação com Python e Java, além de fundamentos de Programação Orientada a Objetos, que aplico para resolver problemas de forma analítica, eficiente e organizada, sempre com foco em código limpo, performance e qualidade.</p>
+  <p> I am a Full Stack Developer with experience in building scalable and well-structured web applications. I work on the front-end with React, creating modern, responsive interfaces focused on user experience. On the back-end, I use Node.js and NestJS, applying the MVC pattern and software architecture best practices. I have strong knowledge of Data Structures, programming logic with Python and Java, as well as Object-Oriented Programming fundamentals, which I apply to solve problems in an analytical, efficient, and organized manner, always focusing on clean code, performance, and quality.</p>
+  
   
 </ul>
 
@@ -70,5 +63,5 @@
 </ul>
 
  
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
+
 <br><br>
