@@ -3,6 +3,7 @@
 </div>
 <br><br>
 
+
 <p align="center" >
   💻 <b>DESENVOLVEDOR WEB</b> &nbsp;|&nbsp;<b>FULL-STACK &nbsp;|&nbsp; UI/UX &nbsp;|&nbsp; &nbsp;
 </p>
@@ -35,33 +36,17 @@
   <p> I am a Full Stack Developer with experience in building scalable and well-structured web applications. I work on the front-end with React, creating modern, responsive interfaces focused on user experience. On the back-end, I use Node.js and NestJS, applying the MVC pattern and software architecture best practices. I have strong knowledge of Data Structures, programming logic with Python and Java, as well as Object-Oriented Programming fundamentals, which I apply to solve problems in an analytical, efficient, and organized manner, always focusing on clean code, performance, and quality.</p>
   
   
-</ul>
-
-
-<h2>Projetos em Destaque</h2>
-<ul>
-  <li>
-    > (Trabalho 1 Semestre) Acesse o repositório para mais detalhes: [Pi-1-semestre---DSM](https://github.com/input-name-Guilherme-araujo/Pi-1-semestre---DSM)
-    
-  </li>
-  <li> 
-    > (Trabalho 2 Semestre) Acesse o repositório para mais detalhes: [Pi-2-semestre---DSM] (https://github.com/input-name-Guilherme-araujo/Pi-2-semestre---DSM)
-  </li> 
-</ul>
 
 
 
 
 
 
-<ul>
 
- 
-</a>
-</a>
-</p>
-</ul>
 
  
 
-<br><br>
+
+ 
+
+
